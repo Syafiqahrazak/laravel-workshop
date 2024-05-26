@@ -1,0 +1,25 @@
+.profile{
+    height: 300px;
+    width: 200px;
+    flex: auto;
+}
+.list-1{
+    background-color: beige;
+    width: 15%;
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+}
+.list-2{
+    background-color: bisque;
+    width: 15%;
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+}
+.list-title-1{
+    color: rgb(212, 149, 149);
+}
+.list-title-2{
+    color: rgb(212, 149, 149);
+}
